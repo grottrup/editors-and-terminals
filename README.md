@@ -8,7 +8,7 @@
 
 https://fishshell.com/ 
 
-``` sh Ubunto
+``` sh Ubuntu
 sudo apt-get install fish
 sudo usermod -s /usr/bin/fish username
 ```
