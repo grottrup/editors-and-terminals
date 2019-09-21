@@ -1,7 +1,5 @@
-# GIT
-
-To exit git diff or log press `Shift+Q`
-
-`git stash push <filepath>`
-
-`git log -p <filename>`
+- [GitHub Git Cheat Sheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf)
+- [Zack Rusin's Git Cheat Sheet](http://www.cheat-sheets.org/saved-copy/git-cheat-sheet.pdf)
+- [Jan Kruger's Git Cheat Sheet](http://jan-krueger.net/wordpress/wp-content/uploads/2007/09/git-cheat-sheet.pdf)
+- [Atlassian's Git Cheat Sheet](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&ved=0CDIQFjADahUKEwjm6vWwntbIAhVHzYAKHbwxCZI&url=https%3A%2F%2Fwww.atlassian.com%2Fdms%2Fwac%2Fimages%2Flanding%2Fgit%2Fatlassian_git_cheatsheet.pdf&usg=AFQjCNGqtOA5UPshK3MhDPRsKd3Cz0ytZQ&sig2=l5Dc7VRV4ZWEux5mskyOxg)
+- [kenlimmj's `.gitattributes` file](https://gist.github.com/kenlimmj/11064956)
